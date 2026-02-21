@@ -1,0 +1,7 @@
+env/
+.pyc
+pycache/
+__pycache__/
+.env
+.env.example
+codebases.db
